@@ -58,6 +58,17 @@ graspnetAPI/
 docs/superpowers/
 日志.md
 
+# Logs
+*.log
+logs/
+
+# Environment
+.env
+.env.local
+
+# Jupyter
+.ipynb_checkpoints/
+
 # OS
 .DS_Store
 Thumbs.db
