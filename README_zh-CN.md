@@ -258,7 +258,7 @@ GRASPNT/
 
 #### 抓取执行视频
 
-https://github.com/yakousansan/GRASPNT/assets/grasp_video.avi
+https://github.com/yakousansan/graspnet-robot-arm/raw/main/grasp_video.mp4
 
 
 #### 工作区预览

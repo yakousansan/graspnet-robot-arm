@@ -258,7 +258,7 @@ The following shows a real grasp execution on the ECO65-6F robotic arm with a D4
 
 #### Grasp Execution Video
 
-https://github.com/yakousansan/GRASPNT/assets/grasp_video.avi
+https://github.com/yakousansan/graspnet-robot-arm/raw/main/grasp_video.mp4
 
 
 #### Workspace Preview

@@ -37,9 +37,9 @@ env/
 *.pt
 *.onnx
 
-# Video recordings
+# Video recordings (runtime generated)
 *.avi
-*.mp4
+recordings/
 
 # Debug output
 debug_output/
