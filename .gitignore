@@ -1,0 +1,63 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+*.egg
+.eggs/
+
+# C++ build
+*.o
+*.obj
+*.dll
+*.lib
+*.so
+*.dylib
+*.exe
+build/
+
+# IDE
+.vs/
+.vscode/
+.idea/
+*.suo
+*.user
+*.sln.docstates
+
+# Conda / Virtual env
+.conda/
+.venv/
+venv/
+env/
+
+# GraspNet model weights
+*.tar
+*.pth
+*.pt
+*.onnx
+
+# Video recordings
+*.avi
+*.mp4
+
+# Debug output
+debug_output/
+*.ply
+
+# External dependencies (clone separately)
+graspnet-baseline/
+graspnetAPI/
+
+# Root-level duplicate images
+/1.png
+/2.jpeg
+/3.jpeg
+
+# Internal dev notes
+docs/superpowers/
+日志.md
+
+# OS
+.DS_Store
+Thumbs.db
