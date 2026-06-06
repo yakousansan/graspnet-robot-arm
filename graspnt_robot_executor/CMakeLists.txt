@@ -23,9 +23,6 @@ target_include_directories(graspnt_robot_executor PRIVATE
     ${CMAKE_CURRENT_SOURCE_DIR}/include
 )
 
-# ------------------ RealMan / Robotic_Arm SDK ------------------
-# 默认目录沿用 door4 的三方库布局。你也可以在 Visual Studio/CMake 配置里覆盖：
-# -DROBOTIC_ARM_DIR=D:/path/to/Robotic_Arm
 set(ROBOTIC_ARM_DIR "${CMAKE_CURRENT_SOURCE_DIR}/3rdparty/Robotic_Arm" CACHE PATH "RealMan Robotic_Arm SDK root")
 set(ROBOTIC_ARM_LIB_DIR "${ROBOTIC_ARM_DIR}/lib")
 set(ROBOTIC_ARM_INCLUDE_DIR "${ROBOTIC_ARM_DIR}/include")

@@ -57,6 +57,8 @@ graspnetAPI/
 # Tests
 tests/
 
+graspnt_robot_executor/README.md
+
 # Internal dev notes
 docs/superpowers/
 docs/graspnt_python_cpp_framework.md
