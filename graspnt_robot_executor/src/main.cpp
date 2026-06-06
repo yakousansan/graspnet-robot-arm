@@ -93,7 +93,7 @@ static bool ConfirmExecution() {
 }
 
 int main() {
-    const std::string robot_ip = "192.168.1.20";
+    const std::string robot_ip = "xxx.xxx.x.xx";
     const int robot_port = 8080;
     const int udp_port = 6556;
 

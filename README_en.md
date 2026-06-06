@@ -248,7 +248,7 @@ All runtime parameters are in `graspnt_rm/config.yaml`. Key sections:
 
 And in `graspnt_robot_executor/src/main.cpp`:
 
-- `robot_ip` — your RealMan controller IP address (default: `192.168.1.20`)
+- `robot_ip` — your RealMan controller IP address (default: `xxx.xxx.x.xx`)
 - `robot_port` — your RealMan controller port (default: `8080`)
 - `udp_port` — UDP listening port (default: `6556`)
 

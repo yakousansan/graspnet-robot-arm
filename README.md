@@ -248,7 +248,7 @@ GRASPNT/
 
 以及 `graspnt_robot_executor/src/main.cpp` 中：
 
-- `robot_ip` — RealMan 控制器 IP 地址（默认：`192.168.1.20`）
+- `robot_ip` — RealMan 控制器 IP 地址（默认：`xxx.xxx.x.xx`）
 - `robot_port` — RealMan 控制器端口（默认：`8080`）
 - `udp_port` — UDP 监听端口（默认：`6556`）
 
