@@ -54,6 +54,9 @@ graspnetAPI/
 /2.jpeg
 /3.jpeg
 
+# Tests
+tests/
+
 # Internal dev notes
 docs/superpowers/
 日志.md
