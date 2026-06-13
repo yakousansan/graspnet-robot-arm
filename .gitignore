@@ -60,7 +60,7 @@ graspnetAPI/
 tests/
 
 graspnt_robot_executor/README.md
-/demo.gif
+!demo.gif
 
 # Internal dev notes
 docs/superpowers/
