@@ -258,7 +258,7 @@ GRASPNT/
 
 #### 抓取演示
 
-[![抓取演示](/yakousansan/graspnet-robot-arm/raw/main/demo.gif)](/yakousansan/graspnet-robot-arm/blob/main/demo.gif)
+[![抓取演示](/yakousansan/graspnet-robot-arm/raw/main/docs/demo.gif)](/yakousansan/graspnet-robot-arm/blob/main/docs/demo.gif)
 
 
 #### 工作区预览
