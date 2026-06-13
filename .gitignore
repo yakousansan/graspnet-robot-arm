@@ -37,9 +37,11 @@ env/
 *.pt
 *.onnx
 
-# Video recordings (runtime generated)
+# Video recordings (runtime generated, keep only demo.gif)
 *.avi
 recordings/
+/grasp_video.mp4
+/grasp_trimmed.mp4
 
 # Debug output
 debug_output/

@@ -256,9 +256,9 @@ And in `graspnt_robot_executor/src/main.cpp`:
 
 The following shows a real grasp execution on the ECO65-6F robotic arm with a D435i camera.
 
-#### Grasp Execution Video
+#### Grasp Demo
 
-https://github.com/yakousansan/graspnet-robot-arm/raw/main/grasp_video.mp4
+[![Grasp Demo](/yakousansan/graspnet-robot-arm/raw/main/demo.gif)](/yakousansan/graspnet-robot-arm/blob/main/demo.gif)
 
 
 #### Workspace Preview

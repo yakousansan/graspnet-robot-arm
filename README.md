@@ -256,9 +256,9 @@ GRASPNT/
 
 以下是在 ECO65-6F 机械臂 + D435i 相机上的真实抓取执行结果。
 
-#### 抓取执行视频
+#### 抓取演示
 
-https://github.com/yakousansan/graspnet-robot-arm/raw/main/grasp_video.mp4
+[![抓取演示](/yakousansan/graspnet-robot-arm/raw/main/demo.gif)](/yakousansan/graspnet-robot-arm/blob/main/demo.gif)
 
 
 #### 工作区预览
